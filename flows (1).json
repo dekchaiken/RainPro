@@ -1,0 +1,19 @@
+[
+    {
+        "id": "825ac8190a689395",
+        "type": "file",
+        "z": "e172f0c5534c5959",
+        "name": "",
+        "filename": "/home/admin/test.txt",
+        "filenameType": "str",
+        "appendNewline": false,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 840,
+        "y": 1580,
+        "wires": [
+            []
+        ]
+    }
+]
